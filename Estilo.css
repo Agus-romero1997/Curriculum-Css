@@ -1,0 +1,20 @@
+h1{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.destacados{
+    color: red;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-shadow: -4px 4px 26px rgba(0,0,0,0.6);
+}
+
+.destacado {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.diseñofoto {
+    border: 14px inset #ff00bf;
+    margin-left: 300px;
+}
